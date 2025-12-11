@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HectorOik
-- 👀 I’m interested in Artificial Intelligence (Machine Learning, Deep learning etc.), Data Science, and Website Development
-- 🌱 I’m currently learning Web Development in hopes of producing a respectable portfolio website for my Data Science and Machine Learning projects
+- 👀 I’m interested in Artificial Intelligence (Machine Learning, Deep learning etc.)
+- 🌱 I’m currently doing my Masters in Machine Learning @UCL
 - 📫 You can reach me at my email address oikohector@outlook.com
 
 <!---
